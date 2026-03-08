@@ -15,7 +15,7 @@ My experience spans **data engineering, platform architecture, analytics enginee
 ### Current Project 
 Here is what I am currently working on in case you don't want to read the about me:
 - RepoMind (name pending)
-    - [Git Repository](https://github.com/angel-sh303/repo-mind)
+    - <a href="https://github.com/angel-sh303/repo-mind" target="_blank">Git Repository</a>
         - TLDR: A local-first AI data engineering platform that ingests repositories, understands SQL and engineering logic, and enables grounded chat, search, and analysis through a web UI.
 
 ---
