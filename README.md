@@ -1,22 +1,3 @@
-<!--
-**AngelSHx/AngelSHx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-[Angel Santana](https://www.angelsantana.io/)
--->
-<!-- ![Angel Santana](Angel.gif) -->
-<!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="420" /> -->
-<!-- 💼 CO-Founder [@PenguinDocketingSolutions](https://penguindocketing.webflow.io/) -->
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Engineer;Code%20|%20Eat%20|%20Sleep%20|%20Dream&font=Fira%20Code&center=true&width=440&height=45&color=bf002a&vCenter=true&size=22"></a>
 </p>
@@ -31,6 +12,16 @@ My experience spans **data engineering, platform architecture, analytics enginee
 
 ---
 
+### Current Project 
+Here is what I am currently working on in case you don't want to read the about me:
+- RepoMind (name pending)
+    - [Git Repository](https://github.com/angel-sh303/repo-mind)
+        - TLDR: A local-first AI data engineering platform that ingests repositories, understands SQL and engineering logic, and enables grounded chat, search, and analysis through a web UI.
+
+---
+<br>
+
+*Enjoy the read of yours truly below*🙂
 ## About Me
 
 - Staff Data Engineer with experience designing **enterprise data platforms**
